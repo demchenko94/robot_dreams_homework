@@ -1,7 +1,7 @@
 # Homework for Lesson 1
+<br>
 
-# Task
-***
+## Task
 
 ### Description
 *Напишіть програму на Node.js, яка приймає з командного рядка вкладені масиви чисел у вигляді рядка та обчислює їхню суму за допомогою рекурсії.*
@@ -13,17 +13,11 @@
 ### Result
 *Сума чисел: 21*
 
-***
-
-# Used
-***
+## Used
 - **process.argv** - to get the arguments from the command line
 - **process.exit** - to exit the process
 - **recursive function** - to calculate the sum of the nested array
 - **chalk** - to color the output (vendor package)
-***
 
-# Unit tests
-***
+## Unit tests
 **To run the unit tests use command** ```yarn run test ./lesson-1_start```
-***
