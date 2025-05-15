@@ -1,7 +1,4 @@
 {
-  "dependencies": {
-    "jest": "^29.7.0"
-  },
   "name": "robot_dreams_homework",
   "version": "1.0.0",
   "description": "Project for homework",
@@ -10,10 +7,17 @@
   "author": "Demchenko Yevhenii <demchenko.yevhenii94@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  },
   "devDependencies": {
     "@eslint/json": "^0.12.0",
     "@eslint/markdown": "^6.4.0",
     "eslint": "^9.26.0",
     "globals": "^16.1.0"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
   }
 }
