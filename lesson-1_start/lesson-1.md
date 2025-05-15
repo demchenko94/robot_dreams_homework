@@ -21,3 +21,8 @@
 
 ## Unit tests
 **To run the unit tests use command** ```yarn run test ./lesson-1_start```
+
+## Commands for run
+```node ./lesson-1_start/index.js "[1, 2, [3, 4, [5]], 6]"``` 
+<br>
+```node ./lesson-1_start "[1, 2, [3, 4, [5]], 6]"```
