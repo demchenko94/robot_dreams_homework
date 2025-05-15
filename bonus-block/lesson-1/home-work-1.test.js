@@ -16,8 +16,6 @@ describe('averageGrade', () => {
 
         const result = averageGrade(personStub);
 
-        console.log(result);
-
         expect(result).toBe('3.20');
     });
 
@@ -37,7 +35,7 @@ describe('averageGrade', () => {
         expect(result).toBe('0.00');
     });
 
-    it('should return 0.00 if grades is empty', () => {
+    it('should return 0.00 if the grades are empty', () => {
         const personStub = {
             name: 'Chill Student',
             grades: []
