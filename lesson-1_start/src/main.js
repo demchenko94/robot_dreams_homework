@@ -1,4 +1,4 @@
-const sum = require('./sum.js');
+const sum = require('./utils/sum.js');
 const chalk = require('chalk');
 
 function main() {
@@ -13,4 +13,4 @@ function main() {
   }
 }
 
-main();
+module.exports = main;

@@ -6,6 +6,7 @@
   "repository": "https://github.com/demchenko94/robot_dreams_homework.git",
   "author": "Demchenko Yevhenii <demchenko.yevhenii94@gmail.com>",
   "license": "MIT",
+  "type": "commonjs",
   "private": false,
   "scripts": {
     "test": "jest",

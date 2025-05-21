@@ -20,7 +20,7 @@
 - **chalk** - to color the output (vendor package)
 
 ## Unit tests
-**To run the unit tests use command** ```yarn run test ./lesson-1_start```
+**To run the unit tests use command** ```yarn run test```
 
 ## Commands for run
 ```node ./lesson-1_start/index.js "[1, 2, [3, 4, [5]], 6]"``` 
