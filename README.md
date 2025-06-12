@@ -5,3 +5,4 @@ Homework for the course of node.js
 Navigation:
 - [robot_dreams_homework](#robot_dreams_homework)
 - [lesson-1](./lesson-1_start/lesson-1.md)
+- [lesson-2](./lesson-2/lesson-2.md)
