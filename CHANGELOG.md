@@ -21,11 +21,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - N/A
 
+## [1.1.0] - 2023-06-20
+### Added
+- Implemented functionality for the robot dreams homework lessons 2.
+- Added basic structure for the project with necessary files and directories.
+
+### Changed
+- Documentation for the project including README and CHANGELOG files.
+
+
+
 ## [1.0.0] - 2023-06-17
 ### Added
 - Initial release of the project.
 - Implemented functionality for the robot dreams homework lessons 1.
 - Added basic structure for the project with necessary files and directories.
 - Documentation for the project including README and CHANGELOG files.
+
 
 
