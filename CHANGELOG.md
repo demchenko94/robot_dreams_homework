@@ -21,6 +21,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - N/A
 
+
+## [1.2.0] - 2025-06-25
+### Added
+- Implemented functionality for the robot dreams homework lessons 3.
+- Added Docker support for the project, allowing for easier deployment and development.
+- Implemented a hot-reload server for development convenience.
+- Added Dockerfile and docker-compose.yml for the kv-server and redis-like service.
+
+### Fixed
+- fixed configuration for nodemon
+
 ## [1.1.0] - 2023-06-20
 ### Added
 - Implemented functionality for the robot dreams homework lessons 2.
