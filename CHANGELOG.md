@@ -21,6 +21,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - N/A
 
+## [1.4.0] - 2025-07-03
+### Added
+- Implemented functionality for the robot dreams homework lessons 5.
+
 ## [1.3.0] - 2025-07-01
 ### Added
 - Implemented functionality for the robot dreams homework lessons 4.

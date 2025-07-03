@@ -8,3 +8,4 @@ Navigation:
 - [lesson-2](./lesson-2_networking/readme.md)
 - [lesson-3](./lesson-3_docker/readme.md)
 - [lesson-4](./lesson-4_express/readme.md)
+- [lesson-5](./lesson-5_nestjs/readme.md)
