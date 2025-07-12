@@ -9,3 +9,5 @@ Navigation:
 - [lesson-3](./lesson-3_docker/readme.md)
 - [lesson-4](./lesson-4_express/readme.md)
 - [lesson-5](./lesson-5_nestjs/readme.md)
+- [lesson-6](./lesson-6_advance-nestjs/readme.md)
+- [lesson-8](./lesson-8_advance-nestjs/readme.md)
